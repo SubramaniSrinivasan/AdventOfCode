@@ -45,7 +45,7 @@ def part_two(input_data):
 input_data = open('input.txt', 'r').read().split('\n')
 
 # Part 1
-# print(part_one(input_data, 1))
+print(part_one(input_data, 1))
 
 # Part 2
-print(part_two(input_data))s
+print(part_two(input_data))
